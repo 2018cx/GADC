@@ -1,0 +1,1 @@
+python evaluator.py VIRTUAL_imagenet256_labeled.npz test.npz
