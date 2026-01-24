@@ -6,7 +6,7 @@ For convenience, you can create the Conda virtual environment through:
 
 ```
 conda env create -f environment.yaml
-conda activate cvpr2827
+conda activate gad
 ```
 
 ### Downloading Dataset
@@ -44,4 +44,5 @@ cd evaluation
 sh run.sh
 sh test.sh
 ```
+
 Then you can get the FID, Inception Score, Precision and Recall.
