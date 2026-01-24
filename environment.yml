@@ -1,4 +1,4 @@
-name: cvpr2827
+name: gad
 channels:
   - defaults
 dependencies:
