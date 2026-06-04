@@ -6,7 +6,7 @@ For convenience, you can create the Conda virtual environment through:
 
 ```
 conda env create -f environment.yaml
-conda activate gad
+conda activate GADC
 ```
 
 ### Downloading Dataset
