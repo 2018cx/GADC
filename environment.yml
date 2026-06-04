@@ -1,4 +1,4 @@
-name: gad
+name: GADC
 channels:
   - defaults
 dependencies:
