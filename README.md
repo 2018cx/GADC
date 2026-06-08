@@ -46,3 +46,17 @@ sh test.sh
 ```
 
 Then you can get the FID, Inception Score, Precision and Recall.
+
+## BibTeX
+```
+@article{cui2026geometry,
+  title={Geometry-Aware Dataset Condensation for Diffusion Model Training},
+  author={Cui, Xiao and Qin, Yulei and Zhu, Mo and Zhou, Wengang and Li, Hongsheng and Li, Houqiang},
+  journal={arXiv preprint arXiv:2606.05883},
+  year={2026}
+}
+```
+
+## Acknowledgement
+
+Thanks to Rui Huang et al. for their nice work, **Accelerating Diffusion Model Training under Minimal Budgets: A Condensation-Based Perspective**！
